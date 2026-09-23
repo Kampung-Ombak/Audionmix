@@ -1,0 +1,9 @@
+{
+  "name": "AUDIONMIX",
+  "short_name": "AUDIONMIX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#00f5ff",
+  "icons": []
+}
